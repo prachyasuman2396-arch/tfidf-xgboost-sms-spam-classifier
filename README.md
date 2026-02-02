@@ -6,9 +6,6 @@ TF-IDF + XGBoost | End-to-End NLP Application
 https://tfidf-xgboost-sms-spam-classifier.onrender.com
 
 
-🔗 GitHub Repository:
-https://github.com/prachyasuman2396-arch/tfidf-xgboost-sms-spam-classifier
-
  
  
  Project Overview
